@@ -1,0 +1,28 @@
+HEAD
+# Investmate-Project
+=======
+# React + Vite
+
+# InvestMate
+
+A sleek investment tracking platform for analyzing stocks, mutual funds, precious metals, and financial planning.
+
+---
+
+## 📌 Features
+- **Dashboard** – Portfolio overview, recent transactions, and market insights  
+- **Investment Planner** – Budgeting rules, growth calculators, and loan advisor  
+- **Stocks** – Live stock prices, sector performance, and trending market news  
+- **Mutual Funds** – Top-performing funds, SIP calculator, and fund categories  
+- **Metals** – Gold, Silver, Platinum tracking with historical price analysis  
+
+---
+
+## 📂 Folder Structure
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+>>>>>>> 1092fe3 (final commit)
+code README.md
+
+
